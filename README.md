@@ -27,4 +27,4 @@ React Native is a JavaScript framework used to build mobile applications for iOS
 ## Conclusion
 This project provided a hands-on experience with React Native and helped build foundational knowledge about its components and functionality. It demonstrates how React Native can be a powerful tool for creating modern, cross-platform mobile applications.
 
-⚠️ **Warning:** Please note tha some features don't workn on Android and some don't work in IOS. Also do not use Expo Go in production Environments as it is only for testing and development phases.
+⚠️ **Warning:** Please note tha some features don't work on Android and some don't work in IOS. Also do not use Expo Go in production Environments as it is only for testing and development phases.
