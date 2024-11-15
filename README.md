@@ -19,10 +19,12 @@ React Native is a JavaScript framework used to build mobile applications for iOS
 - Rich ecosystem: Access to libraries and native modules for extended functionality.
 - Running the Project
 - Clone the repository to your local machine.
-- Install the dependencies with npm install.
-- Start the development server using npx expo start.
-- Open the Expo Go app on your Android device.
+- Install the dependencies with `npm install`.
+- Start the development server using `npx expo start`.
+- Open the **Expo Go** app on your Android device or App Store.
 - Scan the QR code provided by the development server to preview the app.
 
 ## Conclusion
 This project provided a hands-on experience with React Native and helped build foundational knowledge about its components and functionality. It demonstrates how React Native can be a powerful tool for creating modern, cross-platform mobile applications.
+
+⚠️ **Warning:** Please note tha some features don't workn on Android and some don't work in IOS. Also do not use Expo Go in production Environments as it is only for testing and development phases.
