@@ -1,4 +1,4 @@
-⚠️ **Aviso:** The code in App.js is not produced by me. I only created Tests.js file where I did some experiments. The rest of the code is AI generated and should be carefully looked at. It will only serve me as a sort of glossary.
+⚠️ **Warning:** The code in App.js is not produced by me. I only created Tests.js file where I did some experiments. The rest of the code is AI generated and should be carefully looked at. It will only serve me as a sort of glossary.
 
 # React Native Components Explorer
 This project was created using Expo and is compatible with the Expo Go app for Android devices. It served as a learning platform to understand the syntax of React Native, explore its components, and get a better grasp of its use cases.
