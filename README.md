@@ -18,7 +18,8 @@ React Native is a JavaScript framework used to build mobile applications for iOS
 - Fast iteration: Hot Reloading and Fast Refresh enable quick testing and debugging.
 - Rich ecosystem: Access to libraries and native modules for extended functionality.
 - Running the Project
-- Clone the repository to your local machine.
+
+## Clone the repository to your local machine.
 - Install the dependencies with `npm install`.
 - Start the development server using `npx expo start`.
 - Open the **Expo Go** app on your Android device or App Store.
